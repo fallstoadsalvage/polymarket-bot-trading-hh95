@@ -1,4 +1,4 @@
-# 
+# premium Trading Bot for Polymarket - slippage-control and market-making is the best Polymarket trading-bot, featuring slippage-control and market-making. Smart, fast, and
 
 
 
